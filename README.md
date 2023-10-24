@@ -1,0 +1,2 @@
+# libstdc-6
+libstdc++6
